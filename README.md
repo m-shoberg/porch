@@ -32,3 +32,8 @@ wget http://download.tensorflow.org/models/object_detection/tf2/20200711/<MODEL_
 tar -xzvf path/to/<MODEL_NAME>.tar.gz -C destination_directory/
 ```
 replace MODEL_NAME with desired model from tf2 model zoo. Define variables pipline_config, model_dir, and PATH_TO_LABELS with correct filepaths
+
+More TF links:
+```
+https://tutorials-raspberrypi.com/using-tensorflow-lite-with-google-coral-tpu-on-raspberry-pi-4/
+```
