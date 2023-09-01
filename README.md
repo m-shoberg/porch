@@ -37,3 +37,6 @@ More TF links:
 ```
 https://tutorials-raspberrypi.com/using-tensorflow-lite-with-google-coral-tpu-on-raspberry-pi-4/
 ```
+```
+https://github.com/google-coral/edgetpu-platforms
+```
